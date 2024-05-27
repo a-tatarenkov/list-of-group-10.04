@@ -2,13 +2,10 @@
     text-decoration: none;
     color: #000;
     background-color: #00cd92;
+    padding: 0;
+    list-style: none;
 }
 
 .body {
     text-align: center;
-}
-
-.students-list {
-    padding: 0;
-    list-style: none;
 }
