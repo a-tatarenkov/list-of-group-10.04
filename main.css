@@ -1,4 +1,11 @@
-span {
-    background-color: #fc7bfc;
+.students-list .artur-link {
     text-decoration: none;
+    color: #000;
+    background-color: #00cd92;
+    padding: 0;
+    list-style: none;
+}
+
+.body {
+    text-align: center;
 }
